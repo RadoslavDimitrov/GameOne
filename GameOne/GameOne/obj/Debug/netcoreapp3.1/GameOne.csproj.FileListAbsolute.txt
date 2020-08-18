@@ -1,0 +1,13 @@
+D:\morve\GameOne\GameOne\GameOne\bin\Debug\netcoreapp3.1\GameOne.exe
+D:\morve\GameOne\GameOne\GameOne\bin\Debug\netcoreapp3.1\GameOne.deps.json
+D:\morve\GameOne\GameOne\GameOne\bin\Debug\netcoreapp3.1\GameOne.runtimeconfig.json
+D:\morve\GameOne\GameOne\GameOne\bin\Debug\netcoreapp3.1\GameOne.runtimeconfig.dev.json
+D:\morve\GameOne\GameOne\GameOne\bin\Debug\netcoreapp3.1\GameOne.dll
+D:\morve\GameOne\GameOne\GameOne\bin\Debug\netcoreapp3.1\GameOne.pdb
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.csprojAssemblyReference.cache
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.csproj.CoreCompileInputs.cache
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.AssemblyInfoInputs.cache
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.AssemblyInfo.cs
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.dll
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.pdb
+D:\morve\GameOne\GameOne\GameOne\obj\Debug\netcoreapp3.1\GameOne.genruntimeconfig.cache
