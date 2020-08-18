@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\morve\\GameOne\\GameOne\\GameOne\\GameOne.csproj": {}
+    "D:\\morve\\GameOne\\GameOneRepo\\GameOne\\GameOne\\GameOne\\GameOne.csproj": {}
   },
   "projects": {
-    "D:\\morve\\GameOne\\GameOne\\GameOne\\GameOne.csproj": {
+    "D:\\morve\\GameOne\\GameOneRepo\\GameOne\\GameOne\\GameOne\\GameOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\morve\\GameOne\\GameOne\\GameOne\\GameOne.csproj",
+        "projectUniqueName": "D:\\morve\\GameOne\\GameOneRepo\\GameOne\\GameOne\\GameOne\\GameOne.csproj",
         "projectName": "GameOne",
-        "projectPath": "D:\\morve\\GameOne\\GameOne\\GameOne\\GameOne.csproj",
+        "projectPath": "D:\\morve\\GameOne\\GameOneRepo\\GameOne\\GameOne\\GameOne\\GameOne.csproj",
         "packagesPath": "C:\\Users\\morve\\.nuget\\packages\\",
-        "outputPath": "D:\\morve\\GameOne\\GameOne\\GameOne\\obj\\",
+        "outputPath": "D:\\morve\\GameOne\\GameOneRepo\\GameOne\\GameOne\\GameOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\morve\\AppData\\Roaming\\NuGet\\NuGet.Config",
